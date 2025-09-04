@@ -1,0 +1,82 @@
+patient_id,date,medication_name,prescribed_dose,actual_dose_taken,adherence_percentage,side_effects,medication_type
+P001,2023-01-15,Metformin,1000mg,1000mg,100,None,Diabetes
+P001,2023-01-16,Metformin,1000mg,1000mg,100,None,Diabetes
+P001,2023-01-17,Metformin,1000mg,500mg,50,Mild nausea,Diabetes
+P001,2023-01-18,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-19,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-20,Metformin,1000mg,500mg,50,Mild nausea,Diabetes
+P001,2023-01-21,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-22,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-23,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-24,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-25,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-26,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-27,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-28,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-29,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-30,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-31,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-01,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-02,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-03,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-04,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-05,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-06,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-07,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-08,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-09,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-02-10,Metformin,1000mg,0mg,0,Severe nausea,Diabetes
+P001,2023-01-15,Lisinopril,10mg,10mg,100,None,Hypertension
+P001,2023-01-16,Lisinopril,10mg,10mg,100,None,Hypertension
+P001,2023-01-17,Lisinopril,10mg,10mg,100,None,Hypertension
+P001,2023-01-18,Lisinopril,10mg,5mg,50,Dry cough,Hypertension
+P001,2023-01-19,Lisinopril,10mg,5mg,50,Dry cough,Hypertension
+P001,2023-01-20,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-21,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-22,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-23,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-24,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-25,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-26,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-27,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-28,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-29,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-30,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-01-31,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-01,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-02,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-03,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-04,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-05,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-06,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-07,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-08,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-09,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P001,2023-02-10,Lisinopril,10mg,0mg,0,Severe cough,Hypertension
+P002,2023-01-20,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-21,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-22,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-23,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-24,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-25,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-26,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-27,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-28,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-29,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-30,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-01-31,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-01,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-02,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-03,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-04,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-05,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-06,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-07,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-08,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-09,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-10,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-11,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-12,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-13,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-14,Losartan,50mg,50mg,100,None,Hypertension
+P002,2023-02-15,Losartan,50mg,50mg,100,None,Hypertension
